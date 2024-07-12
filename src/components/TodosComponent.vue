@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+    <div>
+        Todo component
+    </div>
 </template>
 
 <script setup lang="ts"></script>
